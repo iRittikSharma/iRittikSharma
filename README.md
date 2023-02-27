@@ -21,4 +21,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=AgentRittik&show_icons=true&locale=en" alt="AgentRittik" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sumit0077&" alt="AgentRittik" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=AgentRittik&" alt="AgentRittik" /></p>
