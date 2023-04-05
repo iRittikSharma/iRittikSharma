@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=AgentRittik" alt="AgentRittik" /></a> </p>
 
- *C++,Java,Sql,HTML,CSS,React,Node,Express*
+ *C++,Java,SQL,HTML,CSS,React,Node,Express*
 
 - 📫 How to reach me *rrittik38@gmail.com*
 
